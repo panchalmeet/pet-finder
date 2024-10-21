@@ -30,3 +30,9 @@
   height: 100px;
   border-radius: 50%;
 }
+
+.fixed-nav {
+  position: fixed;
+  width: 100%;
+  z-index: 999;
+}
